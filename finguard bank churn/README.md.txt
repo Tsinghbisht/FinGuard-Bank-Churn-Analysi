@@ -254,9 +254,7 @@ FinGuard-Bank-Churn-Analysis/
 │   ├── data_cleaning.ipynb
 │
 ├── sql/
-│   ├── database_schema.sql
 │   ├── business_queries.sql
-│   └── advanced_sql_queries.sql
 │
 ├── powerbi/
 │   └── FinGuard_Dashboard.pbix
@@ -267,7 +265,7 @@ FinGuard-Bank-Churn-Analysis/
 │   └── executive_summary.png
 │
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
